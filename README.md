@@ -113,6 +113,20 @@ python scripts/timing/analyze_compensation_timing.py \
 
 The controlled root must contain `data/atomic/atomic_invoices_2012_2024.csv`, `data/outcomes/{path,cycle}/cohort_contributions.csv`, and `data/analysis/panels/Q*_panel.csv`.
 
+## Citation
+
+If you use this repository, its methods, code, or derived results, please cite:
+
+> Esteva de la Rosa, Peplluis (2026). *CCA: Ex Ante Payable-Relief and Compensation-Timing Validation* (Version 5.0.0) [Computer software and research reproducibility repository]. GitHub. https://github.com/OWNER/cca-compensability-experiments
+
+For the underlying experimental dataset, please also cite:
+
+> Esteva de la Rosa, Peplluis (2026). *Atomic Common-Day Invoice Clearing: Pseudonymized Invoice Records and Reproducibility Data, 2012–2023*. Mendeley Data, Version 1. https://doi.org/10.17632/28rbmvwsm9.1
+
+When referring specifically to the scientific results, please cite the accompanying manuscript:
+
+> Esteva de la Rosa, Peplluis (2026). *Ex Ante Estimation of Payable Relief and Compensation Timing for Supplier Selection: Frozen-Origin Evidence from Weekly to Annual Horizons, 2022–2023*. Manuscript/preprint.
+
 ## Data, software, and manuscript rights
 
 The MIT license applies to the software only. It does not grant rights to the invoice data, manuscript, or third-party materials. Do not publish reversible identity maps or commercially sensitive row-level topology without authorization.
