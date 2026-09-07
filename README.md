@@ -117,7 +117,7 @@ The controlled root must contain `data/atomic/atomic_invoices_2012_2024.csv`, `d
 
 If you use this repository, its methods, code, or derived results, please cite:
 
-> Esteva de la Rosa, Peplluis (2026). *CCA: Ex Ante Payable-Relief and Compensation-Timing Validation* (Version 5.0.0) [Computer software and research reproducibility repository]. GitHub. https://github.com/OWNER/cca-compensability-experiments
+> Esteva de la Rosa, Peplluis (2026). *CCA: Ex Ante Payable-Relief and Compensation-Timing Validation* (Version 5.0.0) [Computer software and research reproducibility repository]. GitHub. https://github.com/peplluis7/CCA-compensability)
 
 For the underlying experimental dataset, please also cite:
 
