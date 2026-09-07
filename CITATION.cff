@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "Please cite this repository, the accompanying paper, and the Mendeley Data record."
+title: "CCA prospective payable-relief and compensation-timing validation"
+type: software
+version: 5.0.0
+date-released: 2026-09-05
+license: MIT
+authors:
+  - family-names: Esteva
+    given-names: Peplluis
+  - family-names: Desmukh
+    given-names: Amogh
+repository-code: "https://github.com/OWNER/cca-compensability-experiments"
+abstract: >-
+  Software, aggregate results, paper materials, and verification workflows for
+  frozen-origin validation of the Compensability Capacity Assessment across
+  Q1-Q4 2022 and Q1-Q4 2023, weekly-to-annual horizons, and compensation-timing
+  outcomes including thirty-day relief and relief-days. Exact row-level
+  reproduction requires authorized data access.
+keywords:
+  - supplier selection
+  - supply chain finance
+  - invoice networks
+  - compensability
+  - compensation timing
+  - relief-days
+  - financial circularity
+identifiers:
+  - type: doi
+    value: 10.17632/28rbmvwsm9.1
+    description: Primary experimental data record
+preferred-citation:
+  type: article
+  title: "Ex Ante Estimation of Payable Relief and Compensation Timing for Supplier Selection: Frozen-Origin Evidence from Weekly to Annual Horizons, 2022-2023"
+  authors:
+    - family-names: Esteva
+      given-names: Peplluis
+    - family-names: Desmukh
+      given-names: Amogh
+  year: 2026

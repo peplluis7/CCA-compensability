@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Builds
+build/
+dist/
+*.egg-info/
+
+# Local experiment outputs
+results/reproduced/
+figures/reproduced/
+results/docker/
+figures/docker/
+artifacts/
+*.log
+
+# LaTeX intermediates
+paper/*.aux
+paper/*.bbl
+paper/*.bcf
+paper/*.blg
+paper/*.fdb_latexmk
+paper/*.fls
+paper/*.log
+paper/*.out
+paper/*.run.xml
+paper/*.synctex.gz
+paper/*.toc
+
+# Editors and operating systems
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Controlled frozen-origin inputs and outputs
+PSEUDO~1.CSV
+*Invoices*Database*.csv
+_controlled_reproduction/
+controlled/
+windows/
+operation_logs/
+**/node_map.csv
+**/sequential_quarter_predictions.csv
+
+# Transaction-level controlled study files
+**/atomic_invoices_*.csv
+**/entry_contributions.csv
+**/cohort_contributions.csv
+**/operations.csv
+**/record_residuals.csv
+**/main_features_edge_features.csv
+**/invoice_tranches_*.csv
+**/invoice_network_*_edges.csv
+**/cycles_history_*.csv

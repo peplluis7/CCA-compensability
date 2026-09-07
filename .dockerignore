@@ -1,0 +1,16 @@
+.git
+.github
+.venv
+__pycache__
+.pytest_cache
+.ruff_cache
+_controlled_reproduction
+controlled
+windows
+results/reproduced
+figures/reproduced
+paper/*.aux
+paper/*.log
+paper/*.out
+PSEUDO~1.CSV
+*Invoices*Database*.csv

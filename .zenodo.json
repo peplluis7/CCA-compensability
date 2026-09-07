@@ -1,0 +1,32 @@
+{
+  "title": "CCA prospective payable-relief and compensation-timing validation",
+  "description": "Software, aggregate results, paper sources, and verification workflows for frozen-origin CCA validation across every quarter of 2022 and 2023, weekly-to-annual horizons, and compensation-timing outcomes. Exact row-level reproduction requires authorized data access.",
+  "creators": [
+    {"name": "Esteva, Peplluis"},
+    {"name": "Desmukh, Amogh"}
+  ],
+  "upload_type": "software",
+  "access_right": "open",
+  "keywords": [
+    "supplier selection",
+    "supply chain finance",
+    "invoice networks",
+    "compensability",
+    "compensation timing",
+    "relief-days",
+    "financial circularity"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://doi.org/10.17632/28rbmvwsm9.1",
+      "relation": "isSupplementTo",
+      "scheme": "doi"
+    },
+    {
+      "identifier": "https://github.com/OWNER/cca-compensability-experiments",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "notes": "The software and aggregate release are public. Row-level transaction data remain subject to the dataset license and privacy controls described in DATA_LICENSE.md."
+}

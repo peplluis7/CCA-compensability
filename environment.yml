@@ -1,0 +1,10 @@
+name: cca-compensability-v4
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - pip
+  - gxx
+  - texlive-core
+  - pip:
+      - -e .[dev]
